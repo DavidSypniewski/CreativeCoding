@@ -22,7 +22,7 @@ Jeżeli wolicie, można też nagrać zawartość ekranu i dźwięk za pomocą in
 
 ## Inspiracje do pracy końcowej
 - [Simulation and Nature in Design](http://n-e-r-v-o-u-s.com/education/simulation/index.php)
-- [Generative Design](http://www.generative-gestaltung.de/code)
+- [Generative Design](http://www.generative-gestaltung.de/2)
 - [Studio A N F](http://anf.nu)
 - [Generative Art](https://youtu.be/cKzK88y3o1Q)
 - [Casey Reas (współtwórca Processing)](http://www.bitforms.com/artists/reas)
